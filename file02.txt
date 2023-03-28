@@ -1,0 +1,2 @@
+Creating the aother file named as file02.txt
+
